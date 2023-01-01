@@ -1,0 +1,47 @@
+.foot a{
+    text-decoration: none;
+}
+.foot{
+    text-align: center;
+    background-color:#24193E;
+    color:white;
+    display:grid;
+    grid-template-columns: repeat(4,1fr);
+}
+.work img{
+    margin-right: 20px;
+}
+.links{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+}
+.links h3{
+    margin:10px;
+    color: cornsilk;
+}
+.links h3:hover{
+    color:aqua;
+}
+.social a{
+    color: white;
+}
+.social a:hover{
+    color: darkgreen;
+}
+.social img{
+    height:30px;
+    width:30px;
+    border-radius: 50%;
+}
+.row.g-2{
+    margin-left: 80px;
+}
+.end{
+    background-color: #24193E;
+    margin:-10px;
+}
+.end p{
+    margin-top: 10px;
+    text-align: center;
+    color:aliceblue;
+}

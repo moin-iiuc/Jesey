@@ -1,0 +1,17 @@
+.body{
+    display:grid;
+    grid-template-columns: repeat(2,1fr);
+}
+
+.b1 img{
+    width:100%;
+}
+.b2{
+    margin:40px;
+}
+.b2 Button{
+    align-items: center;
+}
+.b2 h3{
+    text-align: center;
+}
